@@ -1,0 +1,10 @@
+{
+    "status": "SUCCESS",
+    "status_code": "201",
+    "message": "Course created successfully!!!",
+    "data": {
+        "course": {
+            "code": "14943AB37BB8"
+        }
+    }
+}
